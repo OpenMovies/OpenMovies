@@ -1,0 +1,77 @@
+{
+    "title": "Test",
+    "shortname": "test",
+    "description": "Test",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "rating": "PG",
+    "language": "English",
+    "cast": [
+        {
+            "name": "John Doe",
+            "role": "John Doe"
+        },
+        {
+            "name": "Jane Doe",
+            "role": "Jane Doe"
+        },
+        {
+            "name": "Joe Doe",
+            "role": "Joe Doe"
+        }
+    ],
+    "crew": {
+        "director": [
+            "John Doe",
+            "Jane Doe",
+            "Joe Doe"
+        ],
+        "producer": [
+            "John Doe",
+            "Jane Doe",
+            "Joe Doe"
+        ],
+        "writer": [
+            "John Doe",
+            "Jane Doe",
+            "Joe Doe"
+        ]
+    },
+    "distributor": [
+        "John Doe",
+        "Jane Doe",
+        "Joe Doe"
+    ],
+    "boxOffice": {
+        "budget": "10M",
+        "gross": {
+            "us": "100M",
+            "worldwide": "1B"
+        },
+        "openingWeekend": {
+            "us": "500k",
+            "worldwide": "1M"
+        }
+    },
+    "release": {
+        "year": 2018,
+        "month": 1,
+        "day": 1
+    },
+    "countryOfOrigin": [
+        "us",
+        "uk"
+    ],
+    "runtime": {
+        "hours": 1,
+        "minutes": 30,
+        "seconds": 0
+    },
+    "aspectRatio": [
+        16,
+        9
+    ]
+}
