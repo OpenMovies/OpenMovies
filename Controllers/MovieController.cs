@@ -23,9 +23,10 @@ public class MovieController : Controller
             var movie = JsonConvert.DeserializeObject<Movie>(jsonString);
 
             return movie!;
-        } catch (Exception)
+        }
+        catch (Exception e)
         {
-            return NotFound("Movie not found!");
+            return NotFound($"Movie not found!: {e.Message}");
         }
     }
 }
