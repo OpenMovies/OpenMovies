@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API.csproj", "{540D94A6-8DDC-42B0-9F73-3E79EFD78879}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMovies", "OpenMovies.csproj", "{540D94A6-8DDC-42B0-9F73-3E79EFD78879}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
