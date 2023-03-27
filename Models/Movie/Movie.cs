@@ -15,5 +15,4 @@ public class Movie
     public Release? Release { get; set; }
     public List<string?>? CountryOfOrigin { get; set; }
     public Runtime? Runtime { get; set; }
-    public List<int>? AspectRatio { get; set; }
 }
